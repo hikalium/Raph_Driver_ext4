@@ -1,0 +1,4 @@
+[submodule "Raph_Library"]
+	path = Raph_Library
+	url = git@github.com:Raphine/Raph_Library.git
+	branch = user
