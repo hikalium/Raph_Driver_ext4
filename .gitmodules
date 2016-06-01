@@ -2,3 +2,6 @@
 	path = Raph_Library
 	url = git@github.com:Raphine/Raph_Library.git
 	branch = user
+[submodule "lwext4"]
+	path = lwext4
+	url = https://github.com/gkostka/lwext4.git
